@@ -7,7 +7,7 @@
         xmlns:viewModels="clr-namespace:BlogPostApp.ViewModels"
         mc:Ignorable="d"
         d:DataContext="{d:DesignInstance {x:Type viewModels:MainViewModel}}"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="600" Width="600">
     <Window.Resources>
         <Style x:Key="AnnotationStyle" TargetType="{x:Type TextBlock}">
             <Setter Property="Visibility" Value="Collapsed" />

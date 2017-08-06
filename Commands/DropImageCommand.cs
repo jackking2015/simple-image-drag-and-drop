@@ -41,10 +41,7 @@ namespace BlogPostApp.Commands
 
             foreach (var imagePath in filteredImagePaths)
             {
-                _viewModel.Images.Add(new ImageListItemViewModel
-                {
-                    Path = imagePath
-                });
+                _viewModel.Images.Add(imagePath);
             }
         }
 

@@ -25,17 +25,8 @@
             </Style.Triggers>
         </Style>
         <DataTemplate x:Key="ImageListItemTemplate">
-            <WrapPanel d:DataContext="{d:DesignInstance {x:Type viewModels:ImageListItemViewModel}}">
-                <WrapPanel.ContextMenu>
-                    <ContextMenu>
-                        <MenuItem Header="Do something" Command="{Binding DoSomethingCommand}"  CommandParameter="{Binding}" Visibility="{Binding DidSomething}" />
-                        <MenuItem Header="Do something else" Command="{Binding DoSomethingElseCommand}"  CommandParameter="{Binding}" Visibility="{Binding DidSomethingElse}" />
-                    </ContextMenu>
-                </WrapPanel.ContextMenu>
-                <Grid x:Name="ImageGrid">
-                    <Image Width="200" Height="200" Margin="3" Stretch="Uniform" Source="{Binding Path}" />
-                    <TextBlock Width="200" Style="{StaticResource AnnotationStyle}" Text="{Binding Caption}"/>
-                </Grid>
+            <WrapPanel>
+                <Image Width="200" Height="200" Margin="3" Stretch="Uniform" Source="{Binding}" />
             </WrapPanel>
         </DataTemplate>
     </Window.Resources>

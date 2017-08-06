@@ -14,13 +14,13 @@ namespace BlogPostApp.ViewModels
         public event PropertyChangedEventHandler PropertyChanged;
 
         public ICommand DropImageCommand { get; set; }
-        public ObservableCollection<ImageListItemViewModel> Images { get; set; }
+        public ObservableCollection<string> Images { get; set; }
         public Visibility DropPanelLabelVisibility => Images.Any() ? Visibility.Collapsed : Visibility.Visible;
 
         public MainViewModel()
         {
             DropImageCommand = new DropImageCommand(this);
-            Images = new ObservableCollection<ImageListItemViewModel>();
+            Images = new ObservableCollection<string>();
             Images.CollectionChanged += OnImagesCollectionChange;
         }
 

@@ -1,0 +1,14 @@
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\bin\Debug\BlogPostApp.exe.config
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\bin\Debug\BlogPostApp.exe
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\bin\Debug\BlogPostApp.pdb
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp.csprojResolveAssemblyReference.cache
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\MainWindow.g.cs
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\App.g.cs
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp_MarkupCompile.cache
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp_MarkupCompile.lref
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\MainWindow.baml
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp.g.resources
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp.Properties.Resources.resources
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp.csproj.GenerateResource.Cache
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp.exe
+c:\users\krzysztof\documents\visual studio 2017\Projects\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp.pdb
